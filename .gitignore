@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Conda environment cache files
+*.conda
+*.tar.bz2
+
+# Environment file for api
+*.env

@@ -9,7 +9,7 @@ Emotion detection of the text using IBM Watson NLU API. It can detect the five d
 - Then it will detect the dominant emotion, the emotion with the highest score
 - If the input is empty, it will displays 'invalid text'
 
-## What i Learned
+## What I Learned
 - Created an AI based emotion detection application using Watson NLU API.
 - Formatted the output received from the Watson NLU API to extract relevant information from it.
 - Packaged the application and made it importable to any python code for usage.
